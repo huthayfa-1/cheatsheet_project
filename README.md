@@ -63,7 +63,7 @@ A modern, feature-rich Django web application for creating and managing technica
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HamDQan1/cheatsheet_project.git
+   git clone https://github.com/huthayfa-1/cheatsheet_project.git
    cd cheatsheet_project
    ```
 
@@ -224,7 +224,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👤 Author
 
 **Huthayfa Abdulrauf Mohammad Derham**
-- GitHub: [@HamDQan1](https://github.com/HamDQan1)
+- GitHub: [@huthayfa-1](https://github.com/huthayfa-1)
 
 ## 🙏 Acknowledgments
 
